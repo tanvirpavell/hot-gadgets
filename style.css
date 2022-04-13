@@ -27,3 +27,30 @@
     background-size: 75px;
     background-position: left bottom;
 }
+.card-footer{
+    border-top: none;
+    background-color: #ffffff;
+}
+.col{
+    padding: 20px;
+}
+.see-all{
+  color:#FFD019;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 30px;
+}
+.height{
+    height: 300px;
+}
+.border-bt{
+    border-bottom: 8px solid #FF9C35;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 465px;
+    width: 180px;
+    border-radius: 15px;
+}
