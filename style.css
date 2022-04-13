@@ -1,0 +1,29 @@
+.bg-white{
+    background-color: #ffffff;
+}
+.bg-light {
+    --bs-bg-opacity: none;
+}
+.nav-link{
+    color: black;
+}
+.logo{
+    height: 50px;
+}
+.button-b{
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+}
+.bg-image{
+    background-image:url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-size: 60px;
+}
+.bg-img2{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-size: 75px;
+    background-position: left bottom;
+}
